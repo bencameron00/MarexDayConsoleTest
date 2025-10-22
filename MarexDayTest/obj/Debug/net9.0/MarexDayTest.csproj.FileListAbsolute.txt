@@ -1,0 +1,14 @@
+C:\Development\C-sharp\MarexConsoleApp\MarexDayTest\obj\Debug\net9.0\MarexDayTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\C-sharp\MarexConsoleApp\MarexDayTest\obj\Debug\net9.0\MarexDayTest.AssemblyInfoInputs.cache
+C:\Development\C-sharp\MarexConsoleApp\MarexDayTest\obj\Debug\net9.0\MarexDayTest.AssemblyInfo.cs
+C:\Development\C-sharp\MarexConsoleApp\MarexDayTest\obj\Debug\net9.0\MarexDayTest.csproj.CoreCompileInputs.cache
+C:\Development\C-sharp\MarexConsoleApp\MarexDayTest\bin\Debug\net9.0\MarexDayTest.exe
+C:\Development\C-sharp\MarexConsoleApp\MarexDayTest\bin\Debug\net9.0\MarexDayTest.deps.json
+C:\Development\C-sharp\MarexConsoleApp\MarexDayTest\bin\Debug\net9.0\MarexDayTest.runtimeconfig.json
+C:\Development\C-sharp\MarexConsoleApp\MarexDayTest\bin\Debug\net9.0\MarexDayTest.dll
+C:\Development\C-sharp\MarexConsoleApp\MarexDayTest\bin\Debug\net9.0\MarexDayTest.pdb
+C:\Development\C-sharp\MarexConsoleApp\MarexDayTest\obj\Debug\net9.0\MarexDayTest.dll
+C:\Development\C-sharp\MarexConsoleApp\MarexDayTest\obj\Debug\net9.0\refint\MarexDayTest.dll
+C:\Development\C-sharp\MarexConsoleApp\MarexDayTest\obj\Debug\net9.0\MarexDayTest.pdb
+C:\Development\C-sharp\MarexConsoleApp\MarexDayTest\obj\Debug\net9.0\MarexDayTest.genruntimeconfig.cache
+C:\Development\C-sharp\MarexConsoleApp\MarexDayTest\obj\Debug\net9.0\ref\MarexDayTest.dll

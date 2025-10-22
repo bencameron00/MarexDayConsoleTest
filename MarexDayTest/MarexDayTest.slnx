@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../NUnitTests/NUnitTests.csproj" />
+  <Project Path="MarexDayTest.csproj" />
+</Solution>

@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Development\\C-sharp\\MarexConsoleApp\\MarexDayTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D5E846B-C08E-40F3-A908-CA59C0C61B99}|..\\NUnitTests\\NUnitTests.csproj|c:\\development\\c-sharp\\marexconsoleapp\\nunittests\\daycheckerunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44AA616F-5E61-4A2A-A157-ED472DF03929}|MarexDayTest.csproj|c:\\development\\c-sharp\\marexconsoleapp\\marexdaytest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44AA616F-5E61-4A2A-A157-ED472DF03929}|MarexDayTest.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44AA616F-5E61-4A2A-A157-ED472DF03929}|MarexDayTest.csproj|c:\\development\\c-sharp\\marexconsoleapp\\marexdaytest\\daychecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44AA616F-5E61-4A2A-A157-ED472DF03929}|MarexDayTest.csproj|solutionrelative:daychecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D5E846B-C08E-40F3-A908-CA59C0C61B99}|..\\NUnitTests\\NUnitTests.csproj|c:\\development\\c-sharp\\marexconsoleapp\\nunittests\\testtimeproviders\\wednesdaytimeprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D5E846B-C08E-40F3-A908-CA59C0C61B99}|..\\NUnitTests\\NUnitTests.csproj|c:\\development\\c-sharp\\marexconsoleapp\\nunittests\\testtimeproviders\\tuesdaytimeprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WednesdayTimeProvider.cs",
+              "DocumentMoniker": "C:\\Development\\C-sharp\\MarexConsoleApp\\NUnitTests\\TestTimeProviders\\WednesdayTimeProvider.cs",
+              "RelativeDocumentMoniker": "..\\NUnitTests\\TestTimeProviders\\WednesdayTimeProvider.cs",
+              "ToolTip": "C:\\Development\\C-sharp\\MarexConsoleApp\\NUnitTests\\TestTimeProviders\\WednesdayTimeProvider.cs",
+              "RelativeToolTip": "..\\NUnitTests\\TestTimeProviders\\WednesdayTimeProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T20:51:18.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Development\\C-sharp\\MarexConsoleApp\\MarexDayTest\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Development\\C-sharp\\MarexConsoleApp\\MarexDayTest\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T20:35:28.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DayCheckerUnitTests.cs",
+              "DocumentMoniker": "C:\\Development\\C-sharp\\MarexConsoleApp\\NUnitTests\\DayCheckerUnitTests.cs",
+              "RelativeDocumentMoniker": "..\\NUnitTests\\DayCheckerUnitTests.cs",
+              "ToolTip": "C:\\Development\\C-sharp\\MarexConsoleApp\\NUnitTests\\DayCheckerUnitTests.cs",
+              "RelativeToolTip": "..\\NUnitTests\\DayCheckerUnitTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T20:29:49.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DayChecker.cs",
+              "DocumentMoniker": "C:\\Development\\C-sharp\\MarexConsoleApp\\MarexDayTest\\DayChecker.cs",
+              "RelativeDocumentMoniker": "DayChecker.cs",
+              "ToolTip": "C:\\Development\\C-sharp\\MarexConsoleApp\\MarexDayTest\\DayChecker.cs",
+              "RelativeToolTip": "DayChecker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T19:44:58.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TuesdayTimeProvider.cs",
+              "DocumentMoniker": "C:\\Development\\C-sharp\\MarexConsoleApp\\NUnitTests\\TestTimeProviders\\TuesdayTimeProvider.cs",
+              "RelativeDocumentMoniker": "..\\NUnitTests\\TestTimeProviders\\TuesdayTimeProvider.cs",
+              "ToolTip": "C:\\Development\\C-sharp\\MarexConsoleApp\\NUnitTests\\TestTimeProviders\\TuesdayTimeProvider.cs",
+              "RelativeToolTip": "..\\NUnitTests\\TestTimeProviders\\TuesdayTimeProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T20:48:48.366Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
